@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\kikoano111\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    "python.pythonPath": "C:\\Users\\kikoano\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
     "python.linting.pylintArgs": ["----extension-pkg-whitelist=1xml"],
     "python.formatting.autopep8Args": [ "--max-line-length=150" ]
 }
